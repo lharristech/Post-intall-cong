@@ -31,15 +31,13 @@
 
 <h2>Images</h2>
 
+Post configuration
 
 <img width="392" height="281" alt="Screenshot 2025-os tic install conf" src="https://github.com/user-attachments/assets/a053d4c8-3ab3-403c-8787-972c245f3a79" />
 
 
-Post configuration
-
-
-
+Created tickets, assigned permissions, password resets and assigned SLA's.
 
 <img width="432" height="330" alt="Screenshot 2025 sla" src="https://github.com/user-attachments/assets/34e91dc2-f0e8-4cb0-be8f-bc8e5134654b" />
 
-Created tickets, assigned permissions, password resets and assigned SLA's.
+
